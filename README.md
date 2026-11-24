@@ -1,4 +1,11 @@
 # E-Commerce-Sales-Intelligence-Dashboard-on-PowerBI
+
+> **Full-stack Power BI solution analyzing 9,000+ sales transactions across product, customer, regional, and delivery dimensions — built on a star schema data model with 15+ DAX measures.**
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=flat-square&logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-15%2B%20Measures-blue?style=flat-square) ![Dataset](https://img.shields.io/badge/Dataset-9%2C000%2B%20Transactions%20%7C%209%20Tables-orange?style=flat-square)
+
+---
+
 ## 📌 Project Overview
 ShopNest is a simulated e-commerce retail business. As a data analyst for this capstone project, I designed an Interactive Power BI Dashboard from raw multi-table data ingestion through Power Query and DAX to an interactive executive dashboard. 
 The dashboard answers critical business questions across key metrics of an e-commerce business, including sales performance, order delays, customer behavior, and payment trends. The goal is to extract actionable insights, improve decision-making, and optimize business operations using data visualization and analysis.
