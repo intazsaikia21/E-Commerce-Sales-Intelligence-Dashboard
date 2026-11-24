@@ -39,7 +39,8 @@ To address these challenges, I followed a structured, end-to-end analytics workf
 - Established one-to-many relationships across key datasets (Orders, Customers, Products, Sellers) to enable seamless cross-table analysis.
 - Built DAX measures to calculate Total Revenue, Average Review Score, Delayed Orders, and Seasonal Sales Trends.
 
-📐 DAX Measures (15+ Written)
+### 📐 DAX Measures (15+ Written)
+
 -- Month-over-Month Revenue Growth
 MoM Revenue Growth % = 
 DIVIDE(
