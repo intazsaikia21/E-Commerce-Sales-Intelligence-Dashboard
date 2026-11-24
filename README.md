@@ -41,6 +41,7 @@ To address these challenges, I followed a structured, end-to-end analytics workf
 
 ### 📐 DAX Measures (15+ Written)
 
+```dax
 -- Month-over-Month Revenue Growth
 MoM Revenue Growth % = 
 DIVIDE(
@@ -58,6 +59,7 @@ DIVIDE(
 -- Contribution % by Category
 Category Revenue % = 
 DIVIDE([Total Net Revenue], CALCULATE([Total Net Revenue], ALL('Products'[Category])))
+```
 
 ### 3️⃣ Dashboard Development & Design
 - **Multi-Page Navigation** – Implemented custom button shapes to navigate across Sales Analysis, Delayed Orders, Customer Insights, and Payment Analysis pages.
