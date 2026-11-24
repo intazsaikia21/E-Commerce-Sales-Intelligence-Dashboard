@@ -72,6 +72,23 @@ DIVIDE([Total Net Revenue], CALCULATE([Total Net Revenue], ALL('Products'[Catego
 - Surfaced customer payment preferences to help streamline the checkout experience.
 - Mapped regional sales performance to support targeted expansion decisions.
 
+## 📁 Dataset Summary (9 Source Tables)
+
+| Table | Description |
+|---|---|
+| `customers_dataset` | Customer ID, demographics, location |
+| `orders_dataset` | Order ID, timestamps, status |
+| `order_items_dataset` | Product-level line items per order |
+| `order_reviews_dataset` | Customer ratings and review text |
+| `order_payments_dataset` | Payment method and transaction values |
+| `products_dataset` | Product names, categories, dimensions |
+| `sellers_dataset` | Seller ID and location |
+| `geolocation_dataset` | Zip code to lat/lon mapping |
+| `product_categories_dataset` | Category name translations |
+
+---
+
+
 ## 🛠 Tools Used
 
 - ✔ **Power BI** – Data modeling, visualization, and DAX-based calculations
